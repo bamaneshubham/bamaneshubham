@@ -33,6 +33,6 @@ I’m a data professional passionate about transforming raw data into actionable
 ---
 
 ### 📫 Let’s Connect
-[LinkedIn →](https://www.linkedin.com/in/shubhambamane) | [GitHub →](https://github.com/bamaneshubham)
+[LinkedIn →](https://www.linkedin.com/in/shubhambamane) |[Leetcode →](https://leetcode.com/u/UrB1MFvM4G/) | [GitHub →](https://github.com/bamaneshubham)
 
 ---
