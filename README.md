@@ -4,7 +4,7 @@ I'm a systems & operations analyst working in healthcare technology, currently s
 
 ### 📌 What I Do
 - 🏥 Support 200+ clinical staff through live EMR go-lives: incident triage, root cause analysis, escalation, and knowledge base development
-- 🗂️ Design relational data systems (Airtable, SQL) that model real operational workflows, not just spreadsheets
+- 🗂️ Design relational data systems that model real operational workflows, not just spreadsheets
 - 📊 Build reporting and dashboards that turn raw activity into something teams use for decisions, not just a static chart
 - ⚙️ Automate repetitive data and reporting work with Python and SQL
 
