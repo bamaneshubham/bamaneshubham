@@ -11,7 +11,7 @@ I'm a data professional passionate about transforming raw data into actionable i
 
 🛠️ Tools & Tech Stack
 
-`SQL` | `Power BI` | `PowerBI` | `Python` | `Pandas` | `BeautifulSoup` | `Matplotlib` | `Airtable` | `GitHub`
+`SQL` | `Power BI` | `Python` | `Pandas` | `BeautifulSoup` | `Matplotlib` | `Airtable` | `GitHub`
 
 💼 Projects
 
